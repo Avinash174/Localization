@@ -1,6 +1,6 @@
-# lang_multiple
+# Multiple Language
 
-A new Flutter project.
+A New Flutter Project.
 
 ## Getting Started
 
